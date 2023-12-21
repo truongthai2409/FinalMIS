@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-libre-bodoni: "Libre Bodoni";
+  --font-libre-caslon-display: "Libre Caslon Display";
+  --font-libre-caslon-text: "Libre Caslon Text";
+
+  /* font sizes */
+  --font-size-mid: 17px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+  --font-size-23xl: 42px;
+  --font-size-mini: 15px;
+  --font-size-5xl: 24px;
+  --font-size-sm: 14px;
+  --font-size-6xl: 25px;
+  --font-size-2xl: 21px;
+  --font-size-17xl: 36px;
+  --font-size-lgi: 19px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-dimgray-100: #525050;
+  --color-darkorange-100: #f58a0c;
+  --color-darkorange-200: rgba(245, 138, 12, 0.6);
+  --color-gray-100: rgba(255, 255, 255, 0.2);
+  --color-whitesmoke: #eee;
+
+  /* Border radiuses */
+  --br-11xs: 2px;
+  --br-8xs: 5px;
+}
